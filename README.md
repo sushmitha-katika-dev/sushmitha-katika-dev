@@ -1,4 +1,22 @@
 ## Hi there 👋
+Hi 👋 I'm Sushmitha Katika
+
+Aspiring Java Backend Developer passionate about building scalable backend systems.
+
+Skills:
+Java | Spring Boot | SQL | REST APIs | Data Structures
+
+Currently Learning:
+Spring Boot Backend Development
+Advanced Data Structures
+
+Projects:
+Student Management System
+REST API Applications
+Java Backend Projects
+
+GitHub Repositories:
+https://github.com/sushmitha-katika-dev
 
 <!--
 **sushmitha-katika-dev/sushmitha-katika-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

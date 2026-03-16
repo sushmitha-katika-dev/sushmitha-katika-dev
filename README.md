@@ -18,6 +18,9 @@ Java Backend Projects
 GitHub Repositories:
 https://github.com/sushmitha-katika-dev
 
+## Resume
+📄 [Download My Resume](https://github.com/sushmitha-katika-dev/sushmitha-katika-dev/raw/main/Sushmitha_Katika_Resume.pdf)
+
 <!--
 **sushmitha-katika-dev/sushmitha-katika-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

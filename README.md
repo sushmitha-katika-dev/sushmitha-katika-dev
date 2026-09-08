@@ -45,7 +45,7 @@ To contribute to innovative software products by developing robust backend appli
 
 ## 📄 Resume
 
-📎 [Download My Resume](https://github.com/sushmitha-katika-dev/sushmitha-katika-dev/raw/main/sushmitha-katika-resume.pdf)
+📎 [Download My Resume](https://github.com/sushmitha-katika-dev/sushmitha-katika-dev/raw/main/sushmitha_katika_resume.pdf)
 
 ---
 
